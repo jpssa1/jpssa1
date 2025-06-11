@@ -7,20 +7,23 @@
 ---
 
 ### 🚀 Sobre mim
+Sou apaixonado por tecnologia e atualmente estou me especializando no desenvolvimento de aplicativos mobile utilizando Flutter. Tenho experiência prática em projetos reais, sempre buscando aplicar as melhores práticas de desenvolvimento, como:
 
-Sou apaixonado por tecnologia e estou me especializando no desenvolvimento de aplicativos mobile utilizando Flutter. Trabalho com boas práticas como:
+Clean Architecture
 
-- Arquitetura limpa
-- BLoC pattern
-- Integração com Firebase e Supabase
+Gerenciamento de estado com BLoC
 
-Já participei de projetos reais com funcionalidades como:
+Integração com Firebase e Supabase
 
-- Cadastro e autenticação de usuários  
-- Upload de arquivos (PDF)  
-- Integração com serviços externos  
+Já desenvolvi soluções com:
 
-Sou autodidata, focado em entregar soluções com qualidade e estou pronto para transformar sua ideia em um app funcional e profissional.
+Cadastro e autenticação de usuários
+
+Upload e armazenamento de arquivos (PDF)
+
+Integração com serviços e APIs externas
+
+Sou autodidata, atento aos detalhes e focado em entregar soluções robustas e funcionais. Acredito que um bom código é aquele que resolve problemas de forma eficiente, organizada e escalável.
 
 ---
 
