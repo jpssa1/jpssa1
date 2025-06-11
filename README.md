@@ -37,11 +37,6 @@ Sou autodidata, focado em entregar soluções com qualidade e estou pronto para 
 
 ---
 
-### 📈 GitHub Stats
-
-![jpssa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpssa1&show_icons=true&theme=default)
-
----
 
 ### 📫 Vamos conversar?
 
