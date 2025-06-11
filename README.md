@@ -2,28 +2,25 @@
 
 🎓 Estudante de Engenharia de Software  
 📱 Desenvolvedor mobile com foco em Flutter  
-💻 Experiência em front-end com JavaScript e conhecimentos sólidos em Python  
+💻 Experiência em front-end com JavaScript, Flutter WEB e conhecimentos sólidos em Python  
 
 ---
 
 ### 🚀 Sobre mim
-Sou apaixonado por tecnologia e atualmente estou me especializando no desenvolvimento de aplicativos mobile utilizando Flutter. Tenho experiência prática em projetos reais, sempre buscando aplicar as melhores práticas de desenvolvimento, como:
 
-Clean Architecture
+Sou apaixonado por tecnologia e estou me especializando no desenvolvimento de aplicativos mobile utilizando Flutter. Tenho experiência prática com projetos reais e adoto as melhores práticas de desenvolvimento, como:
 
-Gerenciamento de estado com BLoC
+- Arquitetura limpa
+- BLoC pattern
+- Integração com Firebase e Supabase
 
-Integração com Firebase e Supabase
+Já participei de projetos reais com funcionalidades como:
 
-Já desenvolvi soluções com:
+- Cadastro e autenticação de usuários  
+- Upload de arquivos (PDF)  
+- Integração com serviços externos  
 
-Cadastro e autenticação de usuários
-
-Upload e armazenamento de arquivos (PDF)
-
-Integração com serviços e APIs externas
-
-Sou autodidata, atento aos detalhes e focado em entregar soluções robustas e funcionais. Acredito que um bom código é aquele que resolve problemas de forma eficiente, organizada e escalável.
+Sou autodidata, focado em entregar soluções com qualidade e estou pronto para transformar sua ideia em um app funcional e profissional.
 
 ---
 
@@ -40,6 +37,11 @@ Sou autodidata, atento aos detalhes e focado em entregar soluções robustas e f
 
 ---
 
+### 📈 GitHub Stats
+
+![jpssa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpssa1&show_icons=true&theme=default)
+
+---
 
 ### 📫 Vamos conversar?
 
