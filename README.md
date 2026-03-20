@@ -1,88 +1,55 @@
-👋 Olá! Eu sou o João Pedro Sousa Soares
+# 👋 João Pedro Sousa
 
-🚀 Mobile & Web Developer
-🎓 Estudante de Engenharia de Software
+🚀 Mobile & Web Developer  
+🎓 Engenharia de Software  
 
-Sou um desenvolvedor apaixonado por criar soluções eficientes, escaláveis e com foco em experiência do usuário. Tenho experiência prática desenvolvendo aplicações reais nas áreas de saúde e bem-estar, sempre buscando performance, boas práticas e código limpo.
+---
 
-💼 O que estou fazendo agora
+## 🚀 Sobre mim
 
-📱 Estagiário de Flutter no Instituto Ruy Palhano
-→ Desenvolvimento de soluções para o setor de saúde
+Desenvolvedor focado em Flutter e aplicações modernas, com experiência em projetos reais nas áreas de saúde e bem-estar.
 
-🧠 Estagiário de Flutter na Afeto
-→ Aplicação voltada para crianças com seletividade alimentar
+- 💡 +2 anos como freelancer  
+- 📱 Apps reais em produção  
+- ⚡ Foco em performance e UX  
+- 🧠 BLoC, Clean Architecture  
 
-💻 Freelancer Mobile & Web
-→ Desenvolvimento de soluções sob demanda utilizando tecnologias modernas
+---
 
-🛠️ Tecnologias e Ferramentas
-📱 Mobile
+## 🛠️ Tech Stack
 
-Flutter & Dart
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Swift (iOS)
+### 🌐 Web
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🌐 Web
+### ⚙️ Back-end
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Next.js
+---
 
-React
+## 📊 GitHub Stats
 
-JavaScript
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jpssa1&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpssa1&layout=compact&theme=tokyonight"/>
+</p>
 
-HTML & CSS
+---
 
-⚙️ Back-end & Banco de Dados
+## 📫 Contato
 
-Supabase
+- 🌐 https://jpssa.dev  
+- 💼 LinkedIn: João Pedro Sousa  
+- 📧 jpssal@hotmail.com  
 
-Firebase
+---
 
-APIs REST
+## ⚡ Status
 
-MySQL
-
-🧩 Arquitetura & Estado
-
-BLoC
-
-Provider
-
-Clean Architecture
-
-🔧 Outras
-
-Python
-
-Java
-
-Git & GitHub
-
-Testes de Unidade
-
-🚀 Destaques
-
-💡 +2 anos de experiência como desenvolvedor freelancer
-
-🔗 Experiência com integrações complexas (Supabase e APIs REST)
-
-🎯 Foco em UX/UI responsivo e performance
-
-🧠 Domínio de gerenciamento de estado (BLoC e Provider)
-
-📲 Desenvolvimento de aplicações reais com impacto
-
-📊 Estatísticas do GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/> </p>
-📫 Vamos conversar?
-
-🌐 Portfólio: https://jpssa.dev
-
-💼 LinkedIn: João Pedro Sousa
-
-📧 E-mail: jpssal@hotmail.com
-
-⚡ Sobre mim
-
-Sempre buscando evoluir como desenvolvedor, gosto de trabalhar em projetos que realmente impactam pessoas. Tenho foco em escrever código limpo, escalável e seguir boas práticas — principalmente no ecossistema Flutter.
+```txt
+Building real apps > tutorial hell
