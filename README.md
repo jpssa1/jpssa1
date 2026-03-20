@@ -99,11 +99,3 @@ Sempre buscando evoluir como desenvolvedor, gosto de trabalhar em projetos que r
 Meu foco é escrever código limpo, escalável e seguir as melhores práticas — principalmente no ecossistema Flutter.
 
 ---
-
-## 🚀 Próximo nível
-
-Se quiser deixar esse perfil ainda mais forte:
-
-- ✨ Adicionar animação (typing effect)  
-- 🔥 Incluir streak stats  
-- 💎 Transformar em perfil destaque (nível 10/10)  
